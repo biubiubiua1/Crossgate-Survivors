@@ -1,3 +1,6 @@
+更多 源码下载地址 http://web3incubators.com/?cid=66
+
+
 # Crossgate Survivors 魔力宝贝幸存者
 ## Unity C# 项目源码 (Unity开发版本 2021.3.30f1)
 
